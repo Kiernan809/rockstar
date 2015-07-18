@@ -1,1 +1,8 @@
-bbef645e-2d64-11e5-bb3a-14109fce357f
+
+class Rockstar
+  def initialize
+  end
+  def awesome?
+    true
+  end
+end
